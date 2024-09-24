@@ -4,4 +4,4 @@ This project was part of the DataCamp Data Science course, where the objective w
 
 What is the most common duration of movies from the 1990s? </br>
 How many short action movies (with a runtime of less than 90 minutes) from the 1990s are present in the dataset?</br></br>
-The project involved using Python to explore and visualize the data, providing insights into the trends of movie durations during that decade.
+The project involved using Python to clean, explore, and visualize the data, providing insights into the trends of movie durations during that decade.
