@@ -19,4 +19,4 @@ Save your results as a pandas DataFrame called top_10_schools containing the "sc
 
 Save your results as a pandas DataFrame called largest_std_dev. The DataFrame should contain one row, with: "borough" - the name of the NYC borough with the largest standard deviation of "total_SAT". "num_schools" - the number of schools in the borough. "average_SAT" - the mean of "total_SAT". "std_SAT" - the standard deviation of "total_SAT". Round all numeric values to two decimal places.
 
-In this project, I will explain the solutions I came up with to solve the key questions and discuss a practical way to flatten the index of multi-index data frames that are returned by the agg function, so it easy to rename columns and work with them.
+In this project, I will explain the solutions I came up with to solve the key questions and discuss a practical way to flatten the index of multi-index data frames that are returned by the agg function. This makes it easier to rename columns and work with the data frame itself.
