@@ -2,7 +2,8 @@
 
 The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. In addition to the honor, prestige, and substantial prize money, the recipient also gets a gold medal with an image of Alfred Nobel (1833 - 1896), who established the prize.
 <p align="center">
-![Nobel_Prize](https://github.com/user-attachments/assets/c7848a10-4f01-466d-ab26-697d5d626332)
+![Nobel_Prize](https://github.com/user-attachments/assets/7db02eba-9bb3-402b-9e6b-5e0bdd211a20)
+
 </p>
 The Nobel Foundation has made a dataset available of all prize winners from the outset of the awards from 1901 to 2023. The dataset used in this project is from the Nobel Prize API and is available in the nobel.csv file in the data folder.
 
